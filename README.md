@@ -1,5 +1,6 @@
 
-Creating a web sobre motocicletas y el turismo sobre dos ruedas
+#Practica01-Mi-Blog
+crear un sitio web sobre motocicletas y el turismo sobre dos ruedas
 
 <h1>Objective</h1>
 
@@ -16,7 +17,7 @@ Creating a web sobre motocicletas y el turismo sobre dos ruedas
   </ul> 
   
 <p> dentro del sitio Web implemetaremos las diferentes etiquetas para html5 aplicando todos los conocimientos adquiridos</p> 
-<p>el sitio web nos permite comprtir informacio util con otras persoas aficionadas a  las motocicletas </p>
+<p>el sitio web nos permite compartir informacio util con otras personas aficionadas a  las motocicletas </p>
 
 <h2>  las posibles rutas y destins turiticos del  Ecuador</h2>
 
